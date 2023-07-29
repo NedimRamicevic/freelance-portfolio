@@ -1,4 +1,13 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+const nextConfig = {
+  reactStrictMode: true,
+  images: {
+    domains: [
+      "funkytours.com",
+      "cdn-ph-org.worldtattoogallery.com",
+      "cdn-ph-org.worldtattoogallery.com",
+    ],
+  },
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
