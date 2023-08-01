@@ -5,7 +5,7 @@ const nextConfig = {
     domains: [
       "funkytours.com",
       "cdn-ph-org.worldtattoogallery.com",
-      "cdn-ph-org.worldtattoogallery.com",
+      "m.media-amazon.com",
     ],
   },
 };
